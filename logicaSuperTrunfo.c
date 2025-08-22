@@ -102,7 +102,7 @@ int main() {
     } else if (densidadePopulacional2 < densidadePopulacional1) {
         printf("Resultado: Carta 2 (%s) venceu! (menor densidade populacional)\n", nomeCidade2);
     } else {
-        printf("Resultado: Empate! Ambas têm a mesma densidade populacional.\n");
+        printf("Resultado: Empate! Ambas têm a mesma densidade populacional.\n\n");
     }
 
     return 0;
